@@ -1,4 +1,4 @@
-# Kafka Sandbox
+# Kafka Event Pipeline
 
 A minimal **Kafka + Zookeeper** setup using Docker Compose.  
 This project is meant as a personal sandbox for learning Kafka basics such as creating topics, producing, and consuming messages.
@@ -23,5 +23,5 @@ This project is meant as a personal sandbox for learning Kafka basics such as cr
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/kafka-sandbox.git
-cd kafka-sandbox
+git clone https://github.com/Ares0098/kafka-event-pipeline.git
+cd kafka-event-pipeline
